@@ -2,7 +2,22 @@
 
 ## プロジェクト概要
 
-タスクボードアプリケーション。
+React + TypeScript + Vite で構築したタスクボードアプリケーション。
+
+## 技術スタック
+
+- React 18
+- TypeScript
+- Vite
+
+## 開発コマンド
+
+```bash
+npm install       # 依存パッケージのインストール
+npm run dev       # 開発サーバー起動 (http://localhost:5173)
+npm run build     # プロダクションビルド
+npm run preview   # ビルド結果のプレビュー
+```
 
 ## Git 運用ルール
 
